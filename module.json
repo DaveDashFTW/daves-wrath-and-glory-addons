@@ -1,15 +1,15 @@
 {
-    "id": "daves-wrath-and-glory-addons",
-    "title": "Daves Wrath and Glory Addons",
-    "description": "A module for extending Wrath and Glory automation capabilities",
-    "authors": [
-      {
-      "name": "Dave"
-      }
-    ],
-    "version": "0.0.1",
-    "compatibility": {
-      "minimum": 10,
-      "verified": 11
+  "id": "daves-wrath-and-glory-addons",
+  "title": "Daves Wrath and Glory Addons",
+  "description": "A module for extending Wrath and Glory automation capabilities",
+  "authors": [
+    {
+    "name": "Dave"
     }
+  ],
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": 10,
+    "verified": 11
+  }
 }
